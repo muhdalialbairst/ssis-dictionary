@@ -1,0 +1,6 @@
+school_id	name	level	status	province	city	students_count
+1	Sekolah Dasar Merdeka	SD	Negeri	Jawa Barat	Bandung	450
+2	SMA Harapan Bangsa	SMA	Swasta	DKI Jakarta	Jakarta	800
+3	SMK Teknologi Cerdas	SMK	Negeri	Jawa Timur	Surabaya	600
+4	Sekolah International Global	SD	Swasta	Bali	Denpasar	300
+5	SMA Negeri 1 Semarang	SMA	Negeri	Jawa Tengah	Semarang	1000

@@ -1,0 +1,16 @@
+IF OBJECT_ID('dbo.sekolah', 'U') IS NOT NULL
+	DROP TABLE dbo.sekolah;
+
+GO
+
+	CREATE TABLE sekolah(
+		school_id INT PRIMARY KEY,
+		name VARCHAR(50),
+		level VARCHAR(50),
+		status VARCHAR(50),
+		province VARCHAR(50),
+		city VARCHAR(50),
+		students_count INT
+	);
+
+GO
